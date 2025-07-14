@@ -1,2 +1,5 @@
 # HR Analytics Dashboard: Employee Attrition
-This dataset is designed for analyzing employee attrition patterns and HR analytics using Power BI and other business intelligence tools. It includes 1,470 employee records with fields related to demographics, job satisfaction, compensation, and career progression.
+## Goal
+The HR analytics dashboard project aim to track the rate at which employees are leaving the organization,identify the factors contributing to employee churn,nd provide actionable insights to reduce employee turnover rate, improve employee retention, and enhance overall organizational performance. It also aims to analyze employee attrition patterns and HR analytics using Tableau,as well as track demographics, job satisfaction, compensation, and career progression
+## Dataset Information
+It includes 1,470 employee records with fields related to demographics, job satisfaction, compensation, and career progression.It contains various attributes such as the employee's age, gender, job role, education, department, and marital status. Other information in the dataset includes the employee's daily rate, monthly income, training history, work experience, job satisfaction, and performance ratings. Additionally, the dataset includes a column for attrition, which indicates whether an employee has left the company or is still employed.
